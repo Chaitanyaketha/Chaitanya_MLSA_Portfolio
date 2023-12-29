@@ -24,7 +24,7 @@ const imageAltText = "earth setup background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a 3rd year Btech CSE(AI&ML) student studying at Pragati Engineering College.Currently leading the Google CLoud techonology in GDSC Pragati and MLSA'23";
+  "I'm a 3rd year Btech CSE(AI&ML) student studying at Pragati Engineering College.Currently leading the Google CLoud techonology in GDSC Pragati and MLSA'23.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
