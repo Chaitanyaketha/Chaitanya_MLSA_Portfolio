@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "Google Cloud certifications",
     description:
-      "",
+      "These are my cloud certifications that i had done.Which demonstrates that iam good in Cloud technology and familiar with the clous services such as Google Cloud Platform Cloud Architecture,Data Analytics,Machine Learning,Artificial Intelligence. ",
     url: "https://scl.io/nc9Fkgz",
   },
   {
